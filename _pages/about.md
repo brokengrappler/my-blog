@@ -21,7 +21,7 @@ permalink: /about/
 <tbody>
 <tr>
 <td><strong>Linkedin:</strong></td>
-<td><a href="https://www.linkedin.com/in/paul-chung-7b1057a/">https://www.linkedin.com/in/paul-chung-7b1057a/</a></td>
+<td><a href="https://www.linkedin.com/in/paul-chung-7b1057a/">https://www.linkedin.com/in/paul-j-chung/</a></td>
 </tr>
 <tr>
 <td><strong>GitHub:</strong></td>
